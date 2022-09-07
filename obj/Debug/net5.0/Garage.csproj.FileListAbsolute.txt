@@ -1,0 +1,15 @@
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.csproj.AssemblyReference.cache
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.AssemblyInfoInputs.cache
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.AssemblyInfo.cs
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.csproj.CoreCompileInputs.cache
+/Users/mason/workspace/csharp/Garage/bin/Debug/net5.0/Garage.deps.json
+/Users/mason/workspace/csharp/Garage/bin/Debug/net5.0/Garage.runtimeconfig.json
+/Users/mason/workspace/csharp/Garage/bin/Debug/net5.0/Garage.runtimeconfig.dev.json
+/Users/mason/workspace/csharp/Garage/bin/Debug/net5.0/Garage.dll
+/Users/mason/workspace/csharp/Garage/bin/Debug/net5.0/ref/Garage.dll
+/Users/mason/workspace/csharp/Garage/bin/Debug/net5.0/Garage.pdb
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.dll
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/ref/Garage.dll
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.pdb
+/Users/mason/workspace/csharp/Garage/obj/Debug/net5.0/Garage.genruntimeconfig.cache
